@@ -45,5 +45,5 @@ A simple command‐line tool to extract a document title and structured outline 
 
 1. **Clone this repository**  
    ```bash
-   git clone https://github.com/your‐org/pdf‐structure‐extractor.git
-   cd pdf‐structure‐extractor
+git clone https://github.com/your‑org/Adobe‑1A.git
+cd Adobe‑1A
